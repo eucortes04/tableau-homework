@@ -3,10 +3,10 @@
 ## CitiBike Story Analysis
 
 ```diff
--FYI: Please be aware that to run ipynb files API keys
-askd;flkj
+-FYI: .twbx and analysis (in .txt format) are uploaded in repository files above.
+-Tableu story accessible here via tableau public following the link below.
 ```
-(also available as .txt in files uploads)
+[CitiBike Story](https://public.tableau.com/app/profile/edgar.cortes/viz/2020CitiBike/2020CitiBikeStory)
 
 Lets take a look at what our Tableau analysis of the CitiBike dataset showed us.
 
