@@ -1,6 +1,6 @@
 # tableau-homework
 
-##CitiBike Story Analysis
+## CitiBike Story Analysis
 (also available as .txt in files uploads)
 
 Lets take a look at what our Tableau analysis of the CitiBike dataset showed us.
